@@ -1,7 +1,6 @@
-### Hi there 👋
-
-
 ![Header](https://github.com/JonasTeixeira42/JonasTeixeira42/blob/main/header.png "Header")
+
+ # Hello, folks! <img src="https://github.com/JonasTeixeira42/JonasTeixeira42/blob/main/wave.gif" width="30px">
 
 <!--
 **JonasTeixeira42/JonasTeixeira42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
